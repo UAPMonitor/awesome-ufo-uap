@@ -1,0 +1,40 @@
+[
+    {
+        "name": "UAPMonitor/awesome-ufo-uap",
+        "description": "A curated list of awesome UFO/UAP resources",
+        "uap_only": true,
+        "links": [
+            {
+                "type": "repository",
+                "provider": "github",
+                "url": "https://github.com/UAPMonitor/awesome-ufo-uap/",
+                "api": "https://api.github.com/repos/UAPMonitor/awesome-ufo-uap"
+            }
+        ],
+        "archived": false
+    },
+    {
+        "name": "timothyrenner/nuforc_sightings_data",
+        "description": "A collection of UFO sightings from the National UFO Reporting Center",
+        "links": [
+            {
+                "type": "repository",
+                "provider": "github",
+                "url": "https://github.com/timothyrenner/nuforc_sightings_data",
+                "api": "https://api.github.com/repos/timothyrenner/nuforc_sightings_data"
+            }
+        ],
+        "archived": false
+    },
+    {
+        "name": "planetsig/ufo-reports",
+        "description": "NUFORC geolocated and time standardized ufo reports for close to a century of data. 80,000 plus reports.",
+        "links": [
+            {
+                "type": "repository",
+                "provider": "github",
+                "url": "https://github.com/planetsig/ufo-reports"
+            }
+        ]
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "name": "National UFO Reporting Center (NUFORC)",
+        "description": "A United States organization that investigates UFO sightings and/or alien contacts. It has a comprehensive database of UFO sightings reported across the country.",
+        "creaionYear": 1974,
+        "ref": "nuforc",
+        "links": [
+            {
+                "type": "website",
+                "url": "http://www.nuforc.org/"
+            },
+            {
+                "type": "database",
+                "url": "https://nuforc.org/databank/"
+            }
+        ],
+        "socialMedia": [
+            {
+                "platform": "x",
+                "username": "@NUFORC"
+            }
+        ]
+    },
+    {
+        "name": "The Mutual UFO Network (MUFON)",
+        "description": "An international non-profit organization dedicated to the study of UFOs. MUFON maintains an extensive global database of UFO sightings.",
+        "ref": "mufon",
+        "links": [
+            {
+                "type": "website",
+                "url": "https://www.mufon.com/"
+            }
+        ],
+        "socialMedia": [
+            {
+                "platform": "x",
+                "username": "@MUFON"
+            }
+        ]
+    },
+    {
+        "name": "The Black Vault",
+        "description": "A massive private collection of declassified government documents, including many related to UFOs, made available by John Greenewald Jr.",
+        "ref": "blackvault",
+        "links": [
+            {
+                "type": "website",
+                "url": "https://www.theblackvault.com/"
+            },
+            {
+                "type": "database",
+                "url": "https://www.theblackvault.com/documentarchive/"
+            }
+        ],
+        "socialMedia": [
+            {
+                "platform": "x",
+                "username": "@blackvaultcom"
+            }
+        ]
+    },
+    {
+        "name": "UAPDb.com",
+        "description": "A database of news articles, books, cases, conferences, movies, podcasts, tv-series, websites, and YouTube channels related to the UAP topic.",
+        "ref": "uapdb-com",
+        "links": [
+            {
+                "type": "website",
+                "url": "https://uapdb.com/"
+            }
+        ]
+    },
+    {
+        "name": "Archives for the Unexplained (AFU)",
+        "description": "A Swedish archive and library for UFOs and related topics.",
+        "ref": "afu",
+        "links": [
+            {
+                "type": "website",
+                "url": "https://www.afu.se/"
+            },
+            {
+                "type": "database",
+                "url": "https://www.afu.se/Downloads/"
+            }
+        ],
+        "socialMedia": [
+            {
+                "platform": "x",
+                "username": "@AFU_Sweden"
+            }
+        ]
+    },
+    {
+        "name": "The British UFO Research Association (BUFORA)",
+        "description": "A British scientifically-oriented organisation dedicated to the investigation and research of the UFO enigma",
+        "ref": "bufora",
+        "links": [
+            {
+                "type": "website",
+                "url": "https://bufora.org.uk/"
+            }
+        ],
+        "socialMedia": [
+            {
+                "platform": "x",
+                "username": "@BUFORA"
+            }
+        ]
+    }
+]

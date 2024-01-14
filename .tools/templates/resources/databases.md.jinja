@@ -1,0 +1,27 @@
+#### <a name="{{resource['ref']}}-{{ ref }}"></a>{{ name }}
+
+>&nbsp;
+> {{ description }}
+{% if creationYear %}
+>
+> **Creation Year:** {{ creationYear }}
+{% endif %}
+{% if ref %}
+>
+> **Reference:** {{ ref }}
+{% endif %}
+>
+{% if links %}
+> ##### Links
+{% for link in links %}
+> - {{ link.type | capitalize }}: [{{ link.url }}]({{ link.url }})
+{% endfor %}
+{% endif %}
+{% if socialMedia %}
+>
+>##### Social Media
+{% for social in socialMedia %}
+> - {{ social.platform | capitalize }}: [{{ social.username }}](https://{{ social.platform | lower }}.com/{{ social.username | replace('@', '') }})
+{% endfor %}
+{% endif %}
+>&nbsp;

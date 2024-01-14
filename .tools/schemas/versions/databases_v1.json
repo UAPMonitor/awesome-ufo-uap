@@ -1,0 +1,59 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "https://github.com/uapmonitor/awesome-ufo-uap/schema/versions/databases_v1.json",
+    "type": "array",
+    "uniqueItems": true,
+    "items": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "type": "string"
+            },
+            "description": {
+                "type": "string"
+            },
+            "creaionYear": {
+                "type": "integer",
+                "minimum": 0
+            },
+            "ref": {
+                "type": "string"
+            },
+            "links": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "type": {
+                            "type": "string"
+                        },
+                        "url": {
+                            "type": "string",
+                            "format": "uri"
+                        }
+                    },
+                    "required": ["type", "url"],
+                    "additionalProperties": false
+                }
+            },
+            "socialMedia": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "platform": {
+                            "type": "string"
+                        },
+                        "username": {
+                            "type": "string"
+                        }
+                    },
+                    "required": ["platform", "username"],
+                    "additionalProperties": false
+                }
+            }
+        },
+        "required": ["name", "description", "ref"],
+        "additionalProperties": false
+    }
+}

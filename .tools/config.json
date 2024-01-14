@@ -1,0 +1,28 @@
+{
+    "name": "Awesome UFO / UAP",
+    "description": "A collection of UFO / UAP related resources",
+    "creator": "UAPMonitor",
+    "icon": "🛸",
+    "version": "0.1",
+    "data_dir": "data",
+    "templates_dir": "templates",
+    "output_dir": "awesome",
+    "resources": [
+        {
+            "name": "Organizations",
+            "ref": "organizations",
+            "icon": "🏢"
+        },
+        {
+            "name": "Databases",
+            "description": "List of UFO / UAP databases",
+            "ref": "databases",
+            "icon": "🗄️"
+        },
+        {
+            "name": "Git Repositories",
+            "ref": "gitrepositories",
+            "icon": "📁"
+        }
+    ]
+}

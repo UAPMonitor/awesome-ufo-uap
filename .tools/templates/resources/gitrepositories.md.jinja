@@ -1,0 +1,12 @@
+#### <a name="{{resource['ref']}}-{{ name }}"></a>{{ name }} {% if archived %} *(archived)*{% endif %}
+
+>&nbsp;
+> {{ description }}
+>
+{% if links %}
+> ##### Links
+{% for link in links %}
+> - {{ link.type | capitalize }}: [{{ link.url }}]({{ link.url }})
+{% endfor %}
+{% endif %}
+> &nbsp;

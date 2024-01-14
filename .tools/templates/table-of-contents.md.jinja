@@ -1,0 +1,11 @@
+----
+## <a name="table-of-contents"></a>Table of Contents
+
+{% for resource in resources %}
+- **[{{ resource['name'] }}](#{{ resource['ref'] }})**
+&nbsp;
+{% for entry in resource['entries'] %}
+    - [{{ entry['name'] }}](#{{resource['ref']}}-{{ entry['ref'] if 'ref' in entry else entry['name'] }}): {{ entry['description'] }}
+{% endfor %}
+&nbsp;
+{% endfor %}

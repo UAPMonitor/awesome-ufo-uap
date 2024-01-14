@@ -1,0 +1,11 @@
+# {{ name }} {%if icon %}{{ icon }}{% endif %}
+
+{{ description }}
+
+{%if badges %}{% for badge in badges %}[![{{ badge.name }}]({{ badge.image }})]({{ badge.url }}){% endfor %}{% endif %}
+
+---
+
+## Contributing
+
+This repository is meant to be a collaborative resource for the UAP community. If you have any data or tools that you would like to contribute, please submit a pull request.

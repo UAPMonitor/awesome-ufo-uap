@@ -1,0 +1,42 @@
+[
+    {
+        "name": "National UFO Reporting Center",
+        "location": "United States",
+        "website": "https://www.nuforc.org/",
+        "ref": "nuforc",
+        "description": "The National UFO Reporting Center, founded in 1974 by Robert J. Gribble, is an organization in the United States that investigates UFO sightings and/or alien contacts. The NUFORC has a 24-hour hotline and an interactive website. It is the most comprehensive catalog of UFO reports in the world, with 90,000 reports and over 500 reports added each month.",
+        "creationYear": 1974
+    },
+    {
+        "name": "Mutual UFO Network",
+        "location": "United States",
+        "website": "https://www.mufon.com/",
+        "ref": "mufon",
+        "description": "The Mutual UFO Network is an American-based non-profit organization that investigates cases of alleged UFO sightings. It is one of the oldest and largest civilian UFO-investigative organizations in the United States. MUFON claims 4,000 members worldwide with chapters in every US state. The group maintains a number of investigators, who undergo training administered by MUFON.",
+        "creationYear": 1969
+    },
+    {
+        "name": "Center for the Study of Extraterrestrial Intelligence",
+        "location": "United States",
+        "website": "https://www.cseti.org/",
+        "ref": "cseti",
+        "description": "The Center for the Study of Extraterrestrial Intelligence is a non-profit, tax exempt educational foundation dedicated to the furtherance of our understanding of extraterrestrial intelligence and peaceful contact with extraterrestrial civilizations. CSETI was founded in 1990 by Dr. Steven M. Greer, who is the International Director.",
+        "creationYear": 1990
+    },
+    {
+        "name": "UFO Research Queensland",
+        "location": "Australia",
+        "website": "https://www.uforq.asn.au/",
+        "ref": "uforq",
+        "description": "UFO Research Queensland is a voluntary, non-profit association established in 1956 to receive, record and research UFO sightings. The association is based in Brisbane, Queensland, Australia.",
+        "creationYear": 1956
+    },
+    {
+        "name": "National Investigations Committee on Aerial Phenomena",
+        "location": "United States",
+        "website": "https://www.nicap.org/",
+        "ref": "nicap",
+        "description": "The National Investigations Committee on Aerial Phenomena was an unidentified flying object research group active in the United States from the 1950s to the 1980s. Its head office was in Washington, D.C.",
+        "creationYear": 1956
+    }
+]

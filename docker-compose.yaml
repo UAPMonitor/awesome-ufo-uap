@@ -1,0 +1,10 @@
+version: '3'
+services:
+  app:
+    build:
+      context: .tools
+      dockerfile: Dockerfile
+    volumes:
+      - ./.tools:/app
+      - ./data:/app/data
+    # command: python generate.py
