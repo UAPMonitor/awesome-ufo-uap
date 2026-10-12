@@ -1,3 +1,4 @@
+
 [
     {
         "name": "National UFO Reporting Center (NUFORC)",
@@ -105,6 +106,21 @@
             {
                 "platform": "x",
                 "username": "@BUFORA"
+            }
+        ]
+    },
+    {
+        "name": "Archive777",
+        "description": "An independent digital research archive providing access to over 1.4 million files, including 24,840 files in its Aliens & UFOs collection. Features historical UFO/UAP documentation, government records, searchable source materials, and subject-specific AI research assistants.",
+        "ref": "archive777",
+        "links": [
+            {
+                "type": "website",
+                "url": "https://archive777.org/"
+            },
+            {
+                "type": "database",
+                "url": "https://archive777.org/pages/aliens-and-ufos.html"
             }
         ]
     }
