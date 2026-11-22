@@ -27,6 +27,7 @@ This repository is meant to be a collaborative resource for the UAP community. I
     - [The British UFO Research Association (BUFORA)](#databases-bufora): A British scientifically-oriented organisation dedicated to the investigation and research of the UFO enigma
     - [The Mutual UFO Network (MUFON)](#databases-mufon): An international non-profit organization dedicated to the study of UFOs. MUFON maintains an extensive global database of UFO sightings.
     - [UAPDb.com](#databases-uapdb-com): A database of news articles, books, cases, conferences, movies, podcasts, tv-series, websites, and YouTube channels related to the UAP topic.
+    - [UFO Declassified](#databases-ufo-declassified): An independent searchable index of the Department of War's public PURSUE UAP releases, with document summaries and links to the official source files.
 &nbsp;
 - **[Git Repositories](#gitrepositories)**
 &nbsp;
@@ -181,6 +182,18 @@ This repository is meant to be a collaborative resource for the UAP community. I
 >
 > ##### Links
 > - Website: [https://uapdb.com/](https://uapdb.com/)
+>&nbsp;
+
+#### <a name="databases-ufo-declassified"></a>UFO Declassified
+
+>&nbsp;
+> An independent searchable index of the Department of War's public PURSUE UAP releases, with document summaries and links to the official source files.
+>
+> **Reference:** ufo-declassified
+>
+> ##### Links
+> - Website: [https://ufo-declassified.com/](https://ufo-declassified.com/)
+> - Database: [https://ufo-declassified.com/documents/](https://ufo-declassified.com/documents/)
 >&nbsp;
 
 <div style="text-align: right;">
