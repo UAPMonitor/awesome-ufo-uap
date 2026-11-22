@@ -107,5 +107,20 @@
                 "username": "@BUFORA"
             }
         ]
+    },
+    {
+        "name": "UFO Declassified",
+        "description": "An independent searchable index of the Department of War's public PURSUE UAP releases, with document summaries and links to the official source files.",
+        "ref": "ufo-declassified",
+        "links": [
+            {
+                "type": "website",
+                "url": "https://ufo-declassified.com/"
+            },
+            {
+                "type": "database",
+                "url": "https://ufo-declassified.com/documents/"
+            }
+        ]
     }
 ]
